@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/reactwork/static/css/main.2884d5fd.css",
+    "main.js": "/reactwork/static/js/main.c33971ce.js",
+    "static/js/453.bb828c5d.chunk.js": "/reactwork/static/js/453.bb828c5d.chunk.js",
+    "static/media/img.jpg": "/reactwork/static/media/img.18ed050379ff038788f9.jpg",
+    "index.html": "/reactwork/index.html",
+    "main.2884d5fd.css.map": "/reactwork/static/css/main.2884d5fd.css.map",
+    "main.c33971ce.js.map": "/reactwork/static/js/main.c33971ce.js.map",
+    "453.bb828c5d.chunk.js.map": "/reactwork/static/js/453.bb828c5d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2884d5fd.css",
+    "static/js/main.c33971ce.js"
+  ]
+}
